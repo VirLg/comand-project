@@ -1,6 +1,6 @@
 @media screen and (max-width: 319px) {
     .container-gallery {
-    background-image: url('../../images/mobile/gallary-fon-mobile.webp');
+    background-image: url('../images/mobile/gallary-fon-mobile.webp');
     height: 940px;
     background-repeat: no-repeat;
     overflow: hidden;
@@ -10,7 +10,7 @@
 
 @media screen and (min-width: 320px) {
 .container-gallery {
-    background-image: url('../../images/mobile/gallary-fon-mobile.webp');
+    background-image: url('../images/mobile/gallary-fon-mobile.webp');
     height: 940px;
     background-repeat: no-repeat;
     overflow: hidden;
@@ -23,7 +23,7 @@
 
 @media screen and (min-width: 768px) {
     .container-gallery {
-        background-image: url('../../images/tablet/gallary-fon-tablet.webp');
+        background-image: url('../images/tablet/gallary-fon-tablet.webp');
         height: 958px;
     }
     .container-gallery {
@@ -37,7 +37,7 @@
 
 @media screen and (min-width: 1200px) {
     .container-gallery {
-        background-image: url('../../images/desktop/gallary-fon-desktop.webp');
+        background-image: url('../images/desktop/gallary-fon-desktop.webp');
         height: 1020px;
         }
 
